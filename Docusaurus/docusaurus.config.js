@@ -9,10 +9,10 @@ const config = {
   title: 'DocuDemo',
   tagline: 'This is the Way!',
   favicon: 'img/favicon.ico',
-  url: 'https://yforku.github.io',
-  baseUrl: '/DocuDemo/',
-  organizationName: 'yforku', // Usually your GitHub org/user name.
-  projectName: 'DocuDemo', // Usually your repo name.
+  url: 'https://Meta502.github.io',
+  baseUrl: '/231saurus/',
+  organizationName: 'Meta502', // Usually your GitHub org/user name.
+  projectName: '231saurus', // Usually your repo name.
   trailingSlash: false,
 
   // title: 'My Site',
